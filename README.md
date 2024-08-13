@@ -1,4 +1,4 @@
-At last I can share a NLP project showcase ! 
+
 #  Introducing Skimmer ⚕️📑 
 Skimmer comes from the `Skim Reading` which means to read things quicker 
 I have implemented both on my local machine and Google Colab  ( I will list Guides link and limitation in the end ) 
