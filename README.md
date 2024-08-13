@@ -13,8 +13,8 @@ This project showcase how you can tokenize texts ( which means turn text to Tens
 NLP Project : https://github.com/RMUR99/Skim-Reading-NLP-Project 
 
 # ⚠️ Important notes : 
- ◦ Setting up Jupyter Notebook locally will take so much GPU power so be mindful 
- ◦ If you want to set up Jupyter Notebooks on VScode I have a guide here : https://github.com/RMUR99/Dog-Breed-Identifier-
- ◦ During coding on both VScode and Google colab each one had limitation for instance I had to downgrade my tensorflow to 2.8 in order to proceed in running cells 
- ◦ GPU can be running locally only with tensorflow 2.10 
- ◦ While pushing the repo the model was too huge to put so but it will be made when u run the cells
+ *  Setting up Jupyter Notebook locally will take so much GPU power so be mindful 
+ *  If you want to set up Jupyter Notebooks on VScode I have a guide here : https://github.com/RMUR99/Dog-Breed-Identifier-
+ *  uring coding on both VScode and Google colab each one had limitation for instance I had to downgrade my tensorflow to 2.8 in order to proceed in running cells 
+ *  PU can be running locally only with tensorflow 2.10 
+ *  While pushing the repo the model was too huge to put so but it will be made when u run the cells
