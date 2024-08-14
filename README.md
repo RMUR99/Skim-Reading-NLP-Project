@@ -9,8 +9,7 @@ This project uses Tensor flow , Numpy , pandas
 
 This project showcase how you can tokenize texts ( which means turn text to Tensors , numerical data ) , including embedding sentences , characters , and then positions and length of each sentence 
 
-# The notebook shows you all the steps needed to set up the project 
-NLP Project : https://github.com/RMUR99/Skim-Reading-NLP-Project 
+ 
 
 # ⚠️ Important notes : 
  *  Setting up Jupyter Notebook locally will take so much GPU power so be mindful 
